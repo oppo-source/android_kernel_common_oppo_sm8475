@@ -2,3 +2,5 @@
 *.h   diff=cpp
 *.dtsi diff=dts
 *.dts  diff=dts
+.git/objects/pack/pack-b536ad4dc515cabe879ec619e0bc1fb1335f1ea6.idx filter=lfs diff=lfs merge=lfs -text
+.git/objects/pack/pack-b536ad4dc515cabe879ec619e0bc1fb1335f1ea6.pack filter=lfs diff=lfs merge=lfs -text
